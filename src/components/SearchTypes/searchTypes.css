@@ -1,0 +1,5 @@
+.search-types {
+    display: flex;
+    flex-grow: 1;
+    background-color: #7EE5DA;
+}

@@ -1,0 +1,5 @@
+.info {
+    display: flex;
+    flex-grow: 1;
+    background-color: #70CCC2;
+}
