@@ -10,7 +10,6 @@ const Options = () => {
         <SearchTypes />
         <Info />
         <GetGoogle />
-        <footer>Copyright ©1998 Inc.</footer>
     </div>
   )
 }

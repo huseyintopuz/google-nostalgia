@@ -9,6 +9,7 @@ function App() {
       <GoogleIcon />
       <Search />
       <Options />
+      <footer>Copyright ©1998 Inc.</footer>
     </div>
   );
 }

@@ -1,5 +1,13 @@
 .get-google {
     display: flex;
-    flex-grow: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 3;
     background-color: #62B3AA;
+    padding: 8px;
+}
+
+.get-google > span, input {
+    display: block;
 }
