@@ -9,7 +9,7 @@ function App() {
       <GoogleIcon />
       <Search />
       <Options />
-      <footer>Copyright ©1998 Inc.</footer>
+      <footer>Copyright ©1998 Google Inc.</footer>
     </div>
   );
 }

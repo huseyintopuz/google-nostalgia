@@ -2,10 +2,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-grow: 2;
+    flex-grow: 3;
     background-color: #70CCC2;
 }
 
 .info > ul{
    text-align: center; 
+   font-weight: bold;
 }

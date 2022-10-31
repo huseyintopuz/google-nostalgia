@@ -2,7 +2,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-grow: 5;
+    flex-grow: 7;
     background-color: #7EE5DA;
+    font-weight: bold;
 }
 

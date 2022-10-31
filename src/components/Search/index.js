@@ -7,8 +7,8 @@ const Search = () => {
             <p>Search the web using Google!</p>
             <input type="text" />
             <div>
-                <button>Google Search</button>
-                <button>I'm feeling lucky</button>
+                <button className='search-button'>Google Search</button>
+                <button className='search-feeling'>I'm feeling lucky</button>
             </div>
         </div>
     )

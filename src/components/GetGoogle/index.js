@@ -8,7 +8,7 @@ const GetGoogle = () => {
       <span>updates monthly:</span>
       <input placeholder="your e-mail" />
       <div>
-        <button>Subscribe</button>
+        <button className='get-subscribe'>Subscribe</button>
         <a href="">Archive</a>
       </div>
     </div>

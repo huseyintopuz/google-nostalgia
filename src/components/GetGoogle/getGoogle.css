@@ -3,11 +3,26 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    flex-grow: 3;
+    flex-grow: 7;
     background-color: #62B3AA;
     padding: 8px;
+    font-weight: bold;
 }
 
 .get-google > span, input {
     display: block;
+}
+
+.get-google > input {
+    width: 200px;
+    padding: 0.3rem;
+}
+
+.get-google > input::placeholder {
+    font-weight: bold;
+    color: black;
+}
+
+.get-subscribe {
+    margin-right: 1rem;
 }
